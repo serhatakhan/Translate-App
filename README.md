@@ -33,3 +33,7 @@ This project uses a Redux architecture managed with Redux Toolkit Thunk. This al
 
 
 ## Screen Gif
+
+![kayt2-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/Translate-App/assets/147662915/76df5267-d358-46f9-8f66-3d5e6c1db5db)
+
+
