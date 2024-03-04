@@ -30,7 +30,7 @@ This project uses a Redux architecture managed with Redux Toolkit Thunk. This al
 
 ## Deploy Link
 
-
+https://translate-app-sa.vercel.app/
 
 ## Screen Gif
 
